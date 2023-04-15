@@ -1,4 +1,4 @@
-HAMRAHAVAL
+HAMRWHAVAL
 
 vless://5854c9f2-1f63-499b-d8a5-335505bb77cc@170.114.45.31:2083/?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=we.shahannet.top&type=ws&sni=we.shahannet.top#SHAHIN-HAMRAHAVAL
 
