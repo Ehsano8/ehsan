@@ -1,4 +1,4 @@
-vless://5e6f5ade-0381-4b86-d240-f9e2857bb428@170.114.45.75:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=rls.ehsanservice1.top#SHAHIN-HAMRAHAVAL
-vless://5e6f5ade-0381-4b86-d240-f9e2857bb428@108.61.166.75:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=rls.ehsanservice1.top#SHAHIN-IRANCELL
-vless://5e6f5ade-0381-4b86-d240-f9e2857bb428@170.114.45.75:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=rls.ehsanservice1.top#SHAHIN-MOKHABERAT
-vless://5e6f5ade-0381-4b86-d240-f9e2857bb428@170.114.45.75:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=rls.ehsanservice1.top#SHAHIN-SHATELMOBILE
+vless://5e6f5ade-0381-4b86-d240-f9e2857bb428@170.114.45.75:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=shahinehsan.ehsanservice1.top#SHAHIN-HAMRAHAVAL
+vless://5e6f5ade-0381-4b86-d240-f9e2857bb428@108.61.166.75:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=shahinehsan.ehsanservice1.top#SHAHIN-IRANCELL
+vless://5e6f5ade-0381-4b86-d240-f9e2857bb428@170.114.45.75:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=shahinehsan.ehsanservice1.top#SHAHIN-MOKHABERAT
+vless://5e6f5ade-0381-4b86-d240-f9e2857bb428@170.114.45.75:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=shahinehsan.ehsanservice1.top#SHAHIN-SHATELMOBILE
