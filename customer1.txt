@@ -2,3 +2,5 @@ vless://5e6f5ade-0381-4b86-d240-f9e2857bb428@hamrahava.ehsanserver.top:2096?mode
 vless://5e6f5ade-0381-4b86-d240-f9e2857bb428@108.61.166.75:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=shahinehsan.ehsanservice1.top#SHAHIN-IRANCELL
 vless://5e6f5ade-0381-4b86-d240-f9e2857bb428@170.114.45.75:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=shahinehsan.ehsanservice1.top#SHAHIN-MOKHABERAT
 vless://5e6f5ade-0381-4b86-d240-f9e2857bb428@170.114.45.75:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=shahinehsan.ehsanservice1.top#SHAHIN-SHATELMOBILE
+vless://b0f89add-2f3d-46ae-8d96-3e50039b6827@hamrahaval.ehsanserver.top:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=tls.ehsanserver.top#HAMRAHAVAL2
+vless://34e7f80a-ebab-48b9-acae-386b942027ab@fran.s56123.ml:16543?security=none&encryption=none&host=alibaba.ir&headerType=http&type=tcp#Germany_France-ALL OPERATORS
