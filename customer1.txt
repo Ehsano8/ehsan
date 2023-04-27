@@ -1,7 +1,4 @@
-vless://8e9c557b-e305-4aee-bda0-830c6f8be0bd@hamrahaval.ehsanserver.top:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=tls.100jjad.tk#SHAHIN-HAMRAHAVAL
-vless://8e9c557b-e305-4aee-bda0-830c6f8be0bd@irancell.ehsanserver.top:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=tls.100jjad.tk#SHAHIN-IRANCELL
-vless://91868f65-20a9-4b09-9ddd-9db6860f26f3@hamrahaval.ehsanserver.top:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ssl.ehsanserver2.top&type=ws&sni=ssl.ehsanserver2.top#HAMRAHAVAL-USA
-vless://91868f65-20a9-4b09-9ddd-9db6860f26f3@irancell.ehsanserver.top:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ssl.ehsanserver2.top&type=ws&sni=ssl.ehsanserver2.top#IRANCELL-USA
-vless://0f606168-7957-4fbe-b88e-4bd47be128c3@hamrahaval.ehsanserver.top:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=ssld.ehsanserver2.top#HAMRAHAVAL-USA2
-vless://0f606168-7957-4fbe-b88e-4bd47be128c3@irancell.ehsanserver.top:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=ssld.ehsanserver2.top#IRANCELL-USA2
+vless://8e9c557b-e305-4aee-bda0-830c6f8be0bd@hamrahaval.ehsanserver.top:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=SHAHAN.100jjad.tk#SHAHIN-HAMRAHAVAL
+vless://8e9c557b-e305-4aee-bda0-830c6f8be0bd@irancell.ehsanserver.top:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=SHAHAN.100jjad.tk#SHAHIN-IRANCELL
 vless://34e7f80a-ebab-48b9-acae-386b942027ab@fran.s56123.ml:16543?security=none&encryption=none&host=alibaba.ir&headerType=http&type=tcp#Germany_France-ALL OPERATORS
+vless://22f6239f-2c64-43c3-dd2c-2d5319229a8b@vipippp2.miladevil.shop:443?path=%2F22f6239f-2c64-43c3-dd2c-2d5319229a8b&security=tls&encryption=none&host=revr1.bestnet.cf&type=ws&sni=revr2.bestnet.cf#SUPERFAST-HAMRAHAVAL
