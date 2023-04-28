@@ -1,4 +1,4 @@
-vless://8e9c557b-e305-4aee-bda0-830c6f8be0bd@hamrahaval.ehsanserver.top:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=SHaHaNShAhInEhSaN.100jjad.tk#SHAHIN-HAMRAHAVAL
+vless://8e9c557b-e305-4aee-bda0-830c6f8be0bd@hamrahaval.alidehghan.ml:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=SHaHaNShAhInEhSaN.100jjad.tk#SHAHIN-HAMRAHAVAL
 vless://8e9c557b-e305-4aee-bda0-830c6f8be0bd@irancell.ehsanserver.top:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=SHaHaNShAhIn-EhSaN.100jjad.tk#SHAHIN-IRANCELL
 vless://34e7f80a-ebab-48b9-acae-386b942027ab@fran.s56123.ml:16543?security=none&encryption=none&host=alibaba.ir&headerType=http&type=tcp#Germany_France-ALL OPERATORS
 vless://22f6239f-2c64-43c3-dd2c-2d5319229a8b@vipippp2.miladevil.shop:443?path=%2F22f6239f-2c64-43c3-dd2c-2d5319229a8b&security=tls&encryption=none&host=revr1.bestnet.cf&type=ws&sni=revr2.bestnet.cf#SUPERFAST-HAMRAHAVAL
