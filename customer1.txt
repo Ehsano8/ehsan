@@ -1,2 +1,3 @@
 vless://03761a64-bd11-4750-81af-0b892ce6b08f@104.31.16.85:2083?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=test.alidehghan.ml&type=ws&sni=test.alidehghan.ml#HAMRAHAVAL+TURK
 trojan://gRxLWdgSAb@104.31.16.85:8443?path=%2F%3Fed%3D2048&security=tls&host=test.alidehghan.ml&type=ws&sni=test.alidehghan.ml#HAMRAHAVAL+TURK+T
+vless://b77172d4-bd67-42dd-f49e-8c053bb79343@45.63.116.105443/?path=%2Fb77172d4-bd67-42dd-f49e-8c053bb79343&security=tls&encryption=none&host=flrevtwo.bestnet.ga&type=ws&sni=flrevtwo.bestnet.ga#IRANCELL
