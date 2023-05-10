@@ -1,3 +1,2 @@
-trojan://gRxLWdgSAb@104.31.16.30:8443/?path=%2F%3Fed%3D2048&security=tls&host=ssds.pingservers.site&fp=randomized&type=ws&sni=ssds.pingservers.site#HAMRAHAVL+TURK+T
-vless://03761a64-bd11-4750-81af-0b892ce6b08f@104.31.16.85:2083/?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dddjjfkfk.pingservers.site&type=ws&sni=dddjjfkfk.pingservers.site#HAMRAHAVAL+TURK
+vless://8a0a692c-b193-48d0-8270-e81da35854e6@[::ffff:6816:983]:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=francecity3.mahxray.workers.dev&type=ws&sni=francecity3.mahxray.workers.dev#Mci_France
 vless://03761a64-bd11-4750-81af-0b892ce6b08f@104.31.16.30:2083/?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dddjjfkfk.pingservers.site&type=ws&sni=dddjjfkfk.pingservers.site#IRANCELL+TURK
